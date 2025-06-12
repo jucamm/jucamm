@@ -1,7 +1,7 @@
 - Meu nome é Juca Meniconi
 - Tô interessado em tudo!
 - Fazendo Ciência da Computação na UNICAMP
-- No momento to aprendendo mais sobre estruturas de dados.
+- No momento to aprendendo mais sobre assembly.
 - 📫 Email: jucameniconi@gmail.com
 
 <!---
